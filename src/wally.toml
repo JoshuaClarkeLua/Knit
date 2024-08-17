@@ -1,11 +1,11 @@
 [package]
-name = "sleitnick/knit"
-description = "Knit is a lightweight game framework"
-version = "1.7.0"
+name = "joshuaclarkelua/knit"
+description = "(FORKED) Knit is a lightweight game framework"
+version = "1.7.3"
 license = "MIT"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
 [dependencies]
-Comm = "sleitnick/comm@^1"
-Promise = "evaera/promise@^4"
+Comm = "joshuaclarkelua/comm@^1.0"
+Promise = "joshuaclarkelua/promise@^4"
